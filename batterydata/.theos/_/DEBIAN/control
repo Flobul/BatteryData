@@ -1,0 +1,10 @@
+Package: com.flobul.batterydata
+Name: batterydata
+Architecture: iphoneos-arm
+Description: Prints battery data from IOKit
+Maintainer: Flobul
+Author: Flobul
+Section: System
+Tag: role::hacker
+Version: 0.1.0-3+debug
+Installed-Size: 260
